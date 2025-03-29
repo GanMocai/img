@@ -1,3 +1,3 @@
 # img
 
-To store some image that show in comments.
+To store some image shown in comments.
