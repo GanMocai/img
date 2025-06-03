@@ -1,3 +1,7 @@
 # img
 
-To store some image shown in comments.
+$$
+\text{To store some image.}
+$$
+
+I'll reorgnize this repo soon.
